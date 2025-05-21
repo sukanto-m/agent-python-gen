@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Python test outputs
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated scripts folder (outputs)
+generated_scripts/
+
+# Dashboard artifacts
+generated_scripts/index.html
+
+# Coverage reports
+.coverage
+coverage.xml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
